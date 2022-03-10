@@ -6,6 +6,7 @@ To build...
 
 
 ```
+asp update gtk3
 asp checkout gtk3
 cd gtk3/trunk
 patch -p1 < ../../PKGBUILD.diff
