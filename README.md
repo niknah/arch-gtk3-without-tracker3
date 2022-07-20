@@ -9,7 +9,7 @@ To build...
 asp update gtk3
 asp checkout gtk3
 cd gtk3/trunk
-patch -p1 < ../../PKGBUILD.diff
+patch -p2 < ../../PKGBUILD.diff
 makepkg --syncdeps
 sudo pacman -U gtk3*.zst
 ```
