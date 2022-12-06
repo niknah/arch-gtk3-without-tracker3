@@ -4,6 +4,9 @@ tracker3 can cause some programs like manager.io to crash.
 
 Download from the releases here.
 
+To run it put the Manager...AppImage file into the folder and run `bash ./manager.sh`
+
+
 To build...
 
 
